@@ -1,0 +1,1 @@
+# RebOS-Nix initEgit add README.mdEgit commit -m first commitEgit branch -M mainEgit remote add origin https://github.com/liperium/RebOS-Nix.gitEgit push -u origin main
